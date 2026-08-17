@@ -27,5 +27,5 @@ By combining interactive visualization, deep tensor inspection, statistics, comp
 ---
 
 <p align="center">
-  <strong>🔬 Tensormorph — Visual intelligence for tensors and AI models.</strong>
+  <strong>🔬 Tensormorph - Visual intelligence for tensors and AI models.</strong>
 </p>
