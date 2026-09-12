@@ -6,13 +6,15 @@
 
 It helps machine-learning engineers understand models at every level - from complete architectures and layers down to individual modules, tensors, matrix tiles, and scalar values.
 
-Web: [https://tensormorph.ai](https://tensormorph.ai)
-X (Twitter): [https://x.com/tensormorph](https://x.com/tensormorph)
-Facebook: [https://facebook.com/tensormorph](https://facebook.com/tensormorph)
-Instagram: [https://www.instagram.com/tensormorph](https://www.instagram.com/tensormorph)
-Youtube: [https://www.youtube.com/@tensormorph](https://www.youtube.com/@tensormorph)
-Telegram: [https://t.me/Tensormorph](https://t.me/Tensormorph)
-TikTok: [https://www.tiktok.com/@tensormorph](https://www.tiktok.com/@tensormorph)
+### 🌐 Connect with Tensormorph
+
+[![Website](https://img.shields.io/badge/Website-tensormorph.ai-111827?style=flat&logo=googlechrome&logoColor=white)](https://tensormorph.ai)
+[![X](https://img.shields.io/badge/X-@tensormorph-000000?style=flat&logo=x&logoColor=white)](https://x.com/tensormorph)
+[![Facebook](https://img.shields.io/badge/Facebook-tensormorph-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tensormorph)
+[![Instagram](https://img.shields.io/badge/Instagram-@tensormorph-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tensormorph)
+[![YouTube](https://img.shields.io/badge/YouTube-@tensormorph-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@tensormorph)
+[![Telegram](https://img.shields.io/badge/Telegram-Tensormorph-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Tensormorph)
+[![TikTok](https://img.shields.io/badge/TikTok-@tensormorph-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tensormorph)
 
 ### ✨ What Tensormorph Provides
 
