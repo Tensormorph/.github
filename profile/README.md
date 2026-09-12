@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://gitea.com/Tensormorph/Tensormorph/raw/branch/main/TensormorphTextLogo.svg"
+    src="https://raw.githubusercontent.com/Tensormorph/.github/refs/heads/main/profile/Tensormorph%20Text%20Logo.svg"
     alt="Tensormorph"
     width="400"
   />
