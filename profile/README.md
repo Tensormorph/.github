@@ -6,6 +6,14 @@
 
 It helps machine-learning engineers understand models at every level - from complete architectures and layers down to individual modules, tensors, matrix tiles, and scalar values.
 
+Web: [https://tensormorph.ai](https://tensormorph.ai)
+X (Twitter): [https://x.com/tensormorph](https://x.com/tensormorph)
+Facebook: [https://facebook.com/tensormorph](https://facebook.com/tensormorph)
+Instagram: [https://www.instagram.com/tensormorph](https://www.instagram.com/tensormorph)
+Youtube: [https://www.youtube.com/@tensormorph](https://www.youtube.com/@tensormorph)
+Telegram: [https://t.me/Tensormorph](https://t.me/Tensormorph)
+TikTok: [https://www.tiktok.com/@tensormorph](https://www.tiktok.com/@tensormorph)
+
 ### ✨ What Tensormorph Provides
 
 * 🧠 **Model Exploration** - Navigate complete model architectures, layers, modules, and tensors.
