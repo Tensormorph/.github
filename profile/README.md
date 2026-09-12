@@ -8,13 +8,29 @@ It helps machine-learning engineers understand models at every level - from comp
 
 ### 🌐 Connect with Tensormorph
 
-[![Website](https://img.shields.io/badge/Website-tensormorph.ai-111827?style=flat&logo=googlechrome&logoColor=white)](https://tensormorph.ai)
-[![X](https://img.shields.io/badge/X-@tensormorph-000000?style=flat&logo=x&logoColor=white)](https://x.com/tensormorph)
-[![Facebook](https://img.shields.io/badge/Facebook-tensormorph-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tensormorph)
-[![Instagram](https://img.shields.io/badge/Instagram-@tensormorph-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tensormorph)
-[![YouTube](https://img.shields.io/badge/YouTube-@tensormorph-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@tensormorph)
-[![Telegram](https://img.shields.io/badge/Telegram-Tensormorph-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Tensormorph)
-[![TikTok](https://img.shields.io/badge/TikTok-@tensormorph-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tensormorph)
+<p align="center">
+  <a href="https://tensormorph.ai">
+    <img src="https://img.shields.io/badge/Website-tensormorph.ai-111827?style=flat&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://x.com/tensormorph">
+    <img src="https://img.shields.io/badge/X-@tensormorph-000000?style=flat&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://facebook.com/tensormorph">
+    <img src="https://img.shields.io/badge/Facebook-tensormorph-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/tensormorph">
+    <img src="https://img.shields.io/badge/Instagram-@tensormorph-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@tensormorph">
+    <img src="https://img.shields.io/badge/YouTube-@tensormorph-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/Tensormorph">
+    <img src="https://img.shields.io/badge/Telegram-Tensormorph-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.tiktok.com/@tensormorph">
+    <img src="https://img.shields.io/badge/TikTok-@tensormorph-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 ### ✨ What Tensormorph Provides
 
