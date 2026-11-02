@@ -64,7 +64,8 @@ By combining interactive visualization, deep tensor inspection, statistics, comp
   <strong>🔬 Tensormorph - Visual intelligence for tensors and AI models.</strong>
 </p>
 
-<pre style="font-size: 4px; line-height: 4.8px;">                                                     :-:.
+```
+                                                     :-:.
                                                  :+%@@@@@%+:
                                               -*@@@@@@@@@@@@@*-
                                           .=#@@@@@@@@@@@@@@@@@@@#+.
@@ -125,4 +126,6 @@ By combining interactive visualization, deep tensor inspection, statistics, comp
                                           -*@@@@@@@@@@@@@@@@@@@@@*-
                                              :+%@@@@@@@@@@@@@%+:
                                                 .-*@@@@@@@*=.
-                                                    :=+=:</pre>
+                                                    :=+=:
+```
+<pre style="font-size: 4px; line-height: 4.8px;"></pre>
